@@ -8,11 +8,10 @@
 
 > “代码如诗，逻辑如画。”
 
-我是 **eefenaxce**，一个喜欢折腾、热爱技术、对新鲜事物充满好奇的开发者。
+我是 **eefenaxce**，一名在校学生，也是一直可爱的龙龙(｡・ω・｡)。
 
-- 🏝️ 代码是我的海岛，键盘是我的帆船。
-- 🧑‍💻 喜欢用 Go、JS、TS、Vue 做各种有趣的小项目
-- 🚀 享受解决问题的过程，也乐于分享自己的探索
+- 💻 主要使用 Go、JS、TS、Vue 进行开发
+- 📚 热爱学习，乐于分享自己的成长与收获
 - 📨 邮箱：[2681640937@qq.com](mailto:2681640937@qq.com)
 - 🏠 GitHub主页：[GitHub @eefenaxce](https://github.com/eefenaxce)
 - 🌐 网站: [我的博客](https://blog.axce.cn)
