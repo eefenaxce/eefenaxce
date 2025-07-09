@@ -1,6 +1,9 @@
 # 🌟 你好呀，我是eefenaxce٩(◦`꒳´◦)۶ 🌟
 
-[![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)](https://golang.org/) [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript) [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)](https://golang.org/) 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript) 
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/) 
+[![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white)](https://vuejs.org/)
 
 ---
 
@@ -8,21 +11,21 @@
 
 > “代码如诗，逻辑如画。”
 
-我是 **eefenaxce**，一名在校学生，也是一直可爱的龙龙(｡・ω・｡)。
+我是 **eefenaxce**，一名在校学生，也是一只可爱的龙龙(｡・ω・｡)。
 
 - 💻 主要使用 Go、JS、TS、Vue 进行开发
 - 📚 热爱学习，乐于分享自己的成长与收获
 - 📨 邮箱：[2681640937@qq.com](mailto:2681640937@qq.com)
-- 📺 哔哩哔哩：[Bilibili](https://space.bilibili.com/1031185948)
 - 🌐 网站: [我的博客](https://blog.axce.cn)
+- [![Bilibili](https://img.shields.io/badge/B站-哔哩哔哩-FA7298?logo=bilibili&logoColor=white)](https://space.bilibili.com/1031185948)
 
 ---
 
 ## 🛠️ 技能标签
 
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) 
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white)
 
 ---
