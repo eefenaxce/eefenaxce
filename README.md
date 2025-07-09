@@ -13,7 +13,7 @@
 - 💻 主要使用 Go、JS、TS、Vue 进行开发
 - 📚 热爱学习，乐于分享自己的成长与收获
 - 📨 邮箱：[2681640937@qq.com](mailto:2681640937@qq.com)
-- 🏠 GitHub主页：[GitHub @eefenaxce](https://github.com/eefenaxce)
+- 📺 哔哩哔哩：[Bilibili](https://space.bilibili.com/1031185948)
 - 🌐 网站: [我的博客](https://blog.axce.cn)
 
 ---
